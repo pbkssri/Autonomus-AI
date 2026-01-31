@@ -1,0 +1,12 @@
+# Autonomous AI Agent - Requirements
+# Core dependencies
+aiohttp>=3.9.0
+
+# GUI dependencies (built-in on Windows)
+# tkinter is included with Python on Windows
+
+# Optional but recommended
+colorlog>=6.7.0  # For colored log output
+
+# For PyInstaller packaging (development only)
+# pyinstaller>=5.13.0  # Uncomment when building executable
