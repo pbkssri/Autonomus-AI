@@ -1,4 +1,4 @@
-# Autonomous AI Agent
+Autonomous AI Agent
 
 A powerful Windows desktop application that acts as an autonomous AI assistant, powered by your Gemini Pro and ChatGPT Pro API accounts.
 
